@@ -1,5 +1,5 @@
 <template lang="pug">
-  div
+  #index
 </template>
 
 <script lang="ts">
@@ -13,4 +13,7 @@ export default defineComponent({
 </script>
 
 <style lang="sass" scoped>
+#index
+  min-height: 100vh
+  background-color: #61B5B7
 </style>
