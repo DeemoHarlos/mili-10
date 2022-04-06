@@ -1,5 +1,6 @@
 <template lang="pug">
-  #index
+  #index.text-white
+    .display-1.text-center Mili 10th Anniversary
 </template>
 
 <script lang="ts">
