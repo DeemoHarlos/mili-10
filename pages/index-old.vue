@@ -50,7 +50,7 @@ export default defineComponent({
   #content
     background: no-repeat center url('~assets/images/coming-soon.png')
     mix-blend-mode: overlay
-    opacity: 90%
+    opacity: 0.9
   #footer
     height: 60px
     background: #1B3B54
